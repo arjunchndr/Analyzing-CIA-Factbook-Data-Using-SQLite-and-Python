@@ -9,7 +9,7 @@ You can download the SQLite database, `factbook.db`, [from this GitHub repo](htt
 
 ## Getting Started
 
-Download or view the [Jupyter notebook](https://github.com/arjunchndr/Analyzing-NYC-High-Schools-SAT-Results/blob/master/Analyzing%20NYC%20Schools%20SAT%20Results.ipynb) if you have all the dependencies listed below. 
+Download or view the [Jupyter notebook](https://github.com/arjunchndr/Analyzing-CIA-Factbook-Data-Using-SQLite-and-Python/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb) if you have all the dependencies listed below. 
 
 ## Built With
 
